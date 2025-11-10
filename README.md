@@ -1,0 +1,2 @@
+# Lyric_Importer
+AfterEffects_LRC_Lyric_Importer
